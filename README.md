@@ -9,7 +9,8 @@ Foi utilizado o framework *request* para realizar as chamadas na api
 
 ## PARA EXECUCAO DO TESTE DE BACKEND
 - Entrar no diretorio com "cd backend-test/Employes"
-- Digitar comando behave
+- Digitar comando behave --tags=@nomedaTag
+Obs: altere o @nomedaTag de acordo com a tag que necessita executar. caso queira executar todos os cenarios simplesmente insira behave
 
 
 ## IMPORTANTE
